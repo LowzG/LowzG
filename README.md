@@ -6,8 +6,7 @@
 
 **About me:**
 
-- Currently working as a Linux Systems Engineer at Indeed
-- Pursuing a Software Engineer position in the near future
+- Currently working as a Software Engineer at Indeed
 - Looking for OSS projects to contribute to
 - I enjoy practicing and competing on Codingame. Check out my [profile](https://www.codingame.com/profile/d76676fcfe843458784b224b368008d78450792)
 
@@ -20,8 +19,11 @@
 ![Puppet](https://img.shields.io/badge/-Puppet-black?style=flat&logo=puppet)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat&logo=kubernetes)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazon)
+![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat&logo=terraform)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
 ![Unreal](https://img.shields.io/badge/-Unreal-black?style=flat&logo=unreal-engine)
+
 
 
 
